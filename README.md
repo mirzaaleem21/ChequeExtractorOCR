@@ -20,10 +20,6 @@ This project is a full-stack application designed to **extract structured data f
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/cheque-digitization.git
-cd cheque-digitization
-```
 
 
 ### 2. Backend Setup (FastAPI + Document AI)
