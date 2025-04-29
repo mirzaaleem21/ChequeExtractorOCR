@@ -60,8 +60,6 @@ npm install
 npm start
 ```
 
-The frontend communicates with http://127.0.0.1:8000/process. Change it if your backend is hosted elsewhere.
-
 ## 📸 How It Works
 
 1. Upload cheque image(s) via the UI.
