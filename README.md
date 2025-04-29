@@ -84,7 +84,8 @@ The frontend communicates with http://127.0.0.1:8000/process. Change it if your 
 - Annotation viewer for validation  
 - Cloud deployment (GCP, Vercel, etc.)
 
-## 👤 Author
+## 👤 Authors
 
-**Faraaz Rehan Junaidi Mohammed**
-**Mirza Abdul Aleem Baig**
+- **Faraaz Rehan Junaidi Mohammed**
+- **Mirza Abdul Aleem Baig**
+
